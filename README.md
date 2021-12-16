@@ -1,10 +1,11 @@
-```csharp
-$ lifefetch
+```py
+def me(name: str, age: int, working: bool) -> str:
+  name = "opp"
+  age = 16
+  working = True
 
-opp@sec
--------
+  return f"Hello! My name is {name}, I'm {age} and I work with pentest"
+  # Hello! My name is opp, I'm 16 and I work with pentest
 
-OS:    Xubuntu 20.04.3
-Shell: fish 3.1.2
-WM:    bspwm
+print(me())
 ```
