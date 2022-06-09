@@ -1,11 +1,12 @@
 ```py
-def me(name: str, age: int, working: bool) -> str:
-  name = "opp"
-  age = 17
-  working = True
+from secrets import about_me
 
-  return f"Hello! My name is {name}, I'm {age} and I work with pentest"
-  # Hello! My name is opp, I'm 17 and I work with pentest
+class myInfo():
+  def __init__(self, name: str, age: int, working: bool, langs: list) -> None:
+     self.name = name
+     self.age = age
+     self.working = working
+     self.langs = langs
 
-print(me())
+myInfo("Daniel", 17, True, ["Brazilian Portuguese", "English"])
 ```
