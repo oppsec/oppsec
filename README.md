@@ -18,4 +18,5 @@ ___
   <img src="https://img.shields.io/badge/Git-1%20Year-critical?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/Linux-1%20Year-lightyellow?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/Docker-3%20Months-blue?style=for-the-badge&logo=docker">
+  <img src="https://img.shields.io/badge/Pentest-1.5%20Years-black?style=for-the-badge&logo=insomnia">
 </div>
