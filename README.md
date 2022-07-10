@@ -1,5 +1,6 @@
 ```py
 from secrets import about_me
+# yeah, i'ma secret
 
 class myInfo():
   def __init__(self, name: str, age: int, working: bool, langs: list, current_job: str) -> None:
