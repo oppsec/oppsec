@@ -2,13 +2,14 @@
 from secrets import about_me
 
 class myInfo():
-  def __init__(self, name: str, age: int, working: bool, langs: list) -> None:
+  def __init__(self, name: str, age: int, working: bool, langs: list, current_job: str) -> None:
      self.name = name
      self.age = age
      self.working = working
      self.langs = langs
+     self.current_job = current_job
 
-myInfo("Daniel", 17, True, ["Brazilian Portuguese", "English"])
+myInfo("Daniel", 17, True, ["Brazilian Portuguese", "English"], "Pentester")
 ```
 
 ___
