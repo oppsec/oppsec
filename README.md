@@ -1,19 +1,8 @@
-```py
-from secrets import about_me
-# yeah, i'ma secret
+### 👋 Welcome to my profile!
 
-class myInfo():
-  def __init__(self, name: str, age: int, working: bool, langs: list, current_job: str) -> None:
-     self.name = name
-     self.age = age
-     self.working = working
-     self.langs = langs
-     self.current_job = current_job
+My name is Daniel, *(but you can call me oppsec)*, I'm 17 and work with pentest on a Brazilian security company. I like to develop tools and security resolutions in Python, write something on my blog and help the community. You can reach me on [Twitter](https://twitter.com/opps3c) if you wan't to message me.
 
-myInfo("Daniel", 17, True, ["Brazilian Portuguese", "English"], "Pentester")
-```
-
-___
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-2%20Years-lightblue?style=for-the-badge&logo=python">
@@ -23,4 +12,6 @@ ___
   <img src="https://img.shields.io/badge/Docker-4%20Months-blue?style=for-the-badge&logo=docker">
   <img src="https://img.shields.io/badge/Jekyll-3%20Weeks-lightgreen?style=for-the-badge&logo=jekyll">
   <img src="https://img.shields.io/badge/Cybersecurity-1.5%20Years-purple?style=for-the-badge&logo=insomnia">
+  <img src="https://img.shields.io/badge/HTML5-2%20Years-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-1%20Year-white?style=for-the-badge&logo=css3">
 </div>
