@@ -1,6 +1,17 @@
 ### 👋 Welcome to my profile!
 
-My name is Daniel, *(but you can call me oppsec)*, I'm 17 and work with pentest on a Brazilian security company. I like to develop tools and security resolutions in Python, write something on my blog and help the community. You can reach me on [Twitter](https://twitter.com/opps3c) if you wan't to message me.
+My name is Daniel, *(but you can call me oppsec)*, I'm 17 and work as pentester in a Brazilian security company. I like to develop tools and security resolutions in Python, write something on my blog and help the community. You can reach me on [Twitter](https://twitter.com/opps3c) if you wan't to message me.
+
+```sh
+opp@b0x~ $ pfetch
+||||||||| ||||    opp@b0x
+||||||||| ||||    os     Manjaro Linux
+||||      ||||    host   x86_64
+|||| |||| ||||    kernel 5.15.53-1-MANJARO
+|||| |||| ||||    uptime 25m
+|||| |||| ||||    pkgs   1226
+|||| |||| ||||    memory 2787M / 15949M
+```
 
 <br>
 
