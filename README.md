@@ -1,6 +1,6 @@
 ### 👋 Welcome to my profile!
 
-My name is Daniel, *(but you can call me oppsec)*, I'm 17 and work as pentester in a Brazilian security company. I like to develop tools and security resolutions in Python, write something on my blog and help the community. You can reach me on [Twitter](https://twitter.com/opps3c) if you wan't to message me.
+My name is Daniel, *(but you can call me oppsec)*, I'm 17 and work as a pentester in a Brazilian security company. I like to develop tools and security resolutions in Python, write something on my blog and help the community. You can reach me on [Twitter](https://twitter.com/opps3c) if you want to message me.
 
 ```sh
 opp@b0x~ $ pfetch
