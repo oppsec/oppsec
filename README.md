@@ -3,14 +3,15 @@
 My name is Daniel, *(but you can call me oppsec)*, I'm 17 and work as a pentester in a Brazilian security company. I like to develop tools and security resolutions in Python, write something on my blog and help the community. You can reach me on [Twitter](https://twitter.com/opps3c) if you want to message me.
 
 ```sh
-opp@b0x~ $ pfetch
-||||||||| ||||    opp@b0x
-||||||||| ||||    os     Manjaro Linux
-||||      ||||    host   x86_64
-|||| |||| ||||    kernel 5.15.53-1-MANJARO
-|||| |||| ||||    uptime 25m
-|||| |||| ||||    pkgs   1226
-|||| |||| ||||    memory 2787M / 15949M
+➜  ~  neofetch
+ _-----_      opp@b0x 
+(       \      
+\    0   \    OS ➜ Fish User
+ \        )   Kernel ➜ 5.15.55-1-MANJARO 
+ /      _/    Shell ➜ fish 
+(     _-      CPU ➜ Intel i5-3570 (4) @ 3.800GHz 
+\____-        GPU ➜ NVIDIA GeForce GT 1030 
+              Memory ➜ 1.02GiB / 15.58GiB
 ```
 
 <br>
