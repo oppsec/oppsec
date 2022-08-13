@@ -1,6 +1,9 @@
-### 👋 Welcome to my profile!
-
-My name is Daniel, *(but you can call me oppsec)*, I'm 17 and work as a pentester in a Brazilian security company. I like to develop tools and security resolutions in Python, write something on my blog and help the community. You can reach me on [Twitter](https://twitter.com/opps3c) if you want to message me.
+```py
+z = lambda x,y:x+y
+z = z.__call__("opp", "sec")
+y = '{:.0f}'.format(5*2/3+4+10)
+x = f'''My name is {z}, I'm {y} and I work as an pentester and I like to develop tools with Python'''
+```
 
 <br>
 
