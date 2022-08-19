@@ -2,7 +2,10 @@
 x = lambda x,y:x+y
 x = z.__call__("opp", "sec")
 y = '{:.0f}'.format(5*2/3+4+10)
-z = f'''My name is Daniel, but you can call me {z}, I'm {y} and I work as an pentester and I like to develop tools with Python and Go'''
+z = f'''
+    My name is Daniel, but you can call me {z}, I'm {y} and I work as an 
+    pentester and I like to develop tools with Python and Go
+    '''
 ```
 
 <br>
