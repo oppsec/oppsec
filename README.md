@@ -12,6 +12,7 @@ z = f'''
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-2%20Years-lightblue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Golang-2%20Years-blue?style=for-the-badge&logo=go">
   <img src="https://img.shields.io/badge/Git-2%20Years-critical?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/Github-2%20Years-black?style=for-the-badge&logo=github">
   <img src="https://img.shields.io/badge/Linux-2%20Years-lightyellow?style=for-the-badge&logo=linux">
