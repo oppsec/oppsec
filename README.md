@@ -1,7 +1,4 @@
 ```
-█   █▀ █░█ █▀█ ▀█▀   █░█░█ █ ▀█▀ █░█   ▀█▀ █░█ █▀▀   ▀█▀ █░█░█ █▀█   █░█ ▄▀█ ▀█▀ █▀
-█   ▄█ █▀█ █▄█ ░█░   ▀▄▀▄▀ █ ░█░ █▀█   ░█░ █▀█ ██▄   ░█░ ▀▄▀▄▀ █▄█   █▀█ █▀█ ░█░ ▄█
-
 - Wannabe haxor
 - Work as pentester
 - Like to develop tools with Python and Golang
